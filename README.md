@@ -1,5 +1,7 @@
 #Git Cheat Sheet
 
+Overview of Git commands, and branching and merging.
+
 ##Basic Commands
 * 'git init' - initialize local repository
 * 'git add .' - add (stage) current working folder contents to local repo index
