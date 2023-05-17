@@ -18,3 +18,7 @@ Overview of Git commands, and branching and merging.
 * 'git branch -m newName' - rename current local branch
 * 'git branch branchName' -  create local branch 'branchName'
 * 'git checkout branchName - move to local branch 'branchName'
+
+## Remote Commands
+* `git remote add remName remote` - connect local repo to remote repository `remoteUrl` with shortcut `remName` for the remote URL
+* `git push remName BranchName` - push local commits to remote branch
